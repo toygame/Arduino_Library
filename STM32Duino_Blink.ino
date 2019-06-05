@@ -1,5 +1,4 @@
 void setup() {
-  
   pinMode(PC13, OUTPUT);
 }
 
